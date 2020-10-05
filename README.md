@@ -1,6 +1,5 @@
-<h2 align="Center"> TrinitySeal Login and Register panel</h2>
-
-## How to use
+<h1 align="Center"> TrinitySeal Login and Register panel </h1>
+<h2 align="Center"> How to use </h2>
 ```bash
 Go to https://trinityseal.me/ website.
 Create an account
