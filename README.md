@@ -1,6 +1,4 @@
-## TrinitySeal Login and Register panel
-Github: https://github.com/rixan1337
-Login panel created by: rixan1337
+# TrinitySeal Login and Register panel
 Website: https://rixan.xyz
 Discord: rixan#1337
 
