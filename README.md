@@ -1,6 +1,10 @@
 ## TrinitySeal Login and Register panel
-## How to use:
+Github: https://github.com/rixan1337
+Login panel created by: rixan1337
+Website: https://rixan.xyz
+Discord: rixan#1337
 
+## How to use:
 * Go to https://trinityseal.me/ website.
 * Create an account
 * Login to it
