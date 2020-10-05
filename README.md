@@ -1,5 +1,5 @@
-#TrinitySeal Login and Register panel
-             ##How to use:
+# TrinitySeal Login and Register panel
+             ## How to use:
 ```bash
 Go to https://trinityseal.me/ website.
 Create an account
