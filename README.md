@@ -1,10 +1,10 @@
-## TrinitySeal Login and Register panel
+# TrinitySeal Login and Register panel
 * Created by: rixan1337
 * Website: https://rixan.xyz
 * Discord: rixan#1337
 * Twitter: rixan1337
 
-### How to use:
+## How to use:
 * Go to https://trinityseal.me/ website.
 * Create an account
 * Login to it
@@ -16,6 +16,6 @@
 * Then go to program settings in the website and paste your hash to "Program Hash" field
 * After this instructions your program is working.
 
-### Please don't remove the copyright, thanks!
+## Please don't remove the copyright, thanks!
 * Create an issue or DM me in discord
 * Have fun with the program
