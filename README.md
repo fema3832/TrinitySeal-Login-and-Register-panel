@@ -1,4 +1,4 @@
-# TrinitySeal Login and Register panel
+<h2 align="Center"> TrinitySeal Login and Register panel</h2>
 
 ## How to use
 ```bash
