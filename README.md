@@ -4,7 +4,7 @@
 * Discord: rixan#1337
 * Twitter: rixan1337
 
-## How to use:
+### How to use:
 * Go to https://trinityseal.me/ website.
 * Create an account
 * Login to it
@@ -16,6 +16,6 @@
 * Then go to program settings in the website and paste your hash to "Program Hash" field
 * After this instructions your program is working.
 
-## Please don't remove the copyright. Thanks!
-* Create an issue or DM me in discord.
-* Have fun with the program.
+### Please don't remove the copyright, thanks!
+* Create an issue or DM me in discord
+* Have fun with the program
