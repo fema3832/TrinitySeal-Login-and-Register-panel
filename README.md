@@ -1,8 +1,7 @@
 # TrinitySeal Login and Register panel
 * Created by: rixan1337
-* Website: https://rixan.xyz
 * Discord: rixan#1337
-* Twitter: rixan1337
+* Website: rixan.xyz
 
 ## How to use:
 * Go to https://trinityseal.me/ website.
