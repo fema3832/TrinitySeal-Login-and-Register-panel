@@ -1,1 +1,3 @@
-# TrinitySeal-Login-and-Register-panel
+## TrinitySeal Login and Register panel
+
+# How to use
