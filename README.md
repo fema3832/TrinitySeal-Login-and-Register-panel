@@ -1,5 +1,6 @@
 # TrinitySeal Login and Register panel
 Website: https://rixan.xyz
+
 Discord: rixan#1337
 
 ## How to use:
