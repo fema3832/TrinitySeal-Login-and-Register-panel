@@ -1,7 +1,7 @@
 # TrinitySeal Login and Register panel
 * Website: https://rixan.xyz/
 * Created by: rixan1337
-* Discord: rixan#1337
+* Discord: fema#1337
 
 ## How to use:
 * Go to https://trinityseal.me/ website.
