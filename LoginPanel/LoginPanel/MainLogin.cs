@@ -1,7 +1,7 @@
-﻿// Github: https://github.com/rixan1337
-// Login panel created by: rixan1337
-// Website: https://rixan.xyz
-// Discord: rixan#1337
+// Github: https://github.com/fema3832
+// Login panel created by: fema3832
+// Website: https://fema.one/
+// Discord: fema#0001
 
 using System;
 using System.Collections.Generic;
